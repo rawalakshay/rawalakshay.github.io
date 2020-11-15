@@ -6,4 +6,5 @@ width: 50%;
 body
 {
   margin: auto
+  text-transform: uppercase;
 }
