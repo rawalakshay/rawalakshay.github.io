@@ -1,0 +1,123 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #eeeeee;
+  margin: 0;
+  text-align: center;
+  font-size: 1rem;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Yomogi", cursive;
+  font-size: 5.62rem;
+  color: #66bfbf;
+  /* line-height: 2; */
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 6px;
+  width: 4%;
+  color: #aaaaaa;
+  margin: 100px auto 100px auto;
+}
+
+a {
+  color: #11999e;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  height: 200px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.program-img-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.program-img-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-logo {
+  width: 13%;
+  margin-top: 50px;
+}
+
+.footer-link {
+  color: #11999e;
+  text-decoration: none;
+  position: relative;
+  top: 50px;
+  margin: 30px;
+  font-size: 1.5rem;
+}
+
+.footer-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #eaf6f6;
+  margin-top: 100px;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.alse-link {
+  text-decoration: none;
+}
+
+.btn {
+  margin: 40px auto 40px auto;
+}
+
+.footer-site {
+  color: #eaf6f6;
+}
+
+.footer-site:hover {
+  color: #11999e;
+  text-decoration: none;
+}
